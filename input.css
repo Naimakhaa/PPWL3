@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer components {
+  /* class dasar tab */
+  .tab-item {
+    @apply px-4 py-2 text-sm font-medium border-b-2 transition;
+  }
+
+  /* tab aktif */
+  .tab-active {
+    @apply border-purple-600 text-purple-600;
+  }
+
+  /* tab tidak aktif */
+  .tab-inactive {
+    @apply border-transparent text-gray-500
+           hover:text-purple-600 hover:border-purple-300;
+  }
+}
