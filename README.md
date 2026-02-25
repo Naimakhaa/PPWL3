@@ -25,3 +25,6 @@ Berdasarkan pengamatan dari `play.tailwindcss.com`, dapat ditemjkan 2 perbedaan 
 
 # Praktikum 4 #
 Komponen box model yang terpengaruh oleh background color (bg-blue-600) pada Tailwind CSS adalah content dan padding. Background color tidak mempengaruhi margin karena margin berada di luar elemen.
+
+# Praktikum 7 #
+Link Drive: https://drive.google.com/file/d/1rJac_DQz_hHxn9ViALV00LOllpnnkMy_/view?usp=sharing
